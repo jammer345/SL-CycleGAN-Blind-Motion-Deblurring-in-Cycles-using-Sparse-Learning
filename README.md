@@ -15,7 +15,8 @@ In this paper, we introduce an end-to-end generative adversarial network (GAN) b
 ### GoPro Dataset 
 
 Deblurring results on GoPro test images
-![](imgs/GoPro.png)
+<p align="center"><img width="100%" src="imgs/GoPro.png" style="background-color:white;" /></p>
+
 
 ![](imgs/GoPro_eval.png)
 
