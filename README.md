@@ -51,21 +51,6 @@ Test images
 
 <p align="center"><img width="100%" src="imgs/Triton.png" style="background-color:white;" /></p>
 
-<br/>
-
-## Citation
-If you find this work is useful for your research, please cite our paper:
-
-```
-@article{saqlain2021sl,
-  title={SL-CycleGAN: Blind Motion Deblurring in Cycles using Sparse Learning},
-  author={Saqlain, Ali Syed and Wang, Li-Yun and Fang, Fang},
-  journal={arXiv preprint arXiv:2111.04026},
-  year={2021}
-}
-```
-
-<br/>
 
 
 
