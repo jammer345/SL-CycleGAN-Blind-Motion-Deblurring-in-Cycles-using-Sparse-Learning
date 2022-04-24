@@ -18,7 +18,7 @@ In this paper, we introduce an end-to-end generative adversarial network (GAN) b
 ### GoPro Dataset 
 
 Deblurring results on GoPro test images
-# The results shown in Tab I of SL-CycleGAN are conducted on 256x256 while methods like HiNet use full-resolution images from GoPro without resizing them and calculate PSNR and SSIM and The papers from HiNet authors still rank top in Image Deblurring task based on original image size of GoPro dataset. For more their comparison visit their repo for HiNet: [!](https://github.com/megvii-model/HINet)
+# The results shown in Tab I of SL-CycleGAN are conducted on 256x256 while methods like HiNet use full-resolution images from GoPro without resizing them and calculate PSNR and SSIM and The papers from HiNet authors still rank top in Image Deblurring task based on original image size of GoPro dataset. For more their comparison visit their repo for HiNet: [HiNet](https://github.com/megvii-model/HINet)
 <p align="center"><img width="100%" src="imgs/GoPro.png" style="background-color:white;" /></p>
 
 <p align="center"><img width="100%" src="imgs/GoPro_eval.png" style="background-color:white;" /></p>
